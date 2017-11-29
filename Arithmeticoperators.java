@@ -3,6 +3,7 @@ public class Arithmeticoperators {
 
 	public static void main(String[] args) {
 		
+		//test message added for sonarcube
 		//Program to demonstrate the Addition operator
 		int a = 1+9;
 		System.out.println("a = " + a);
